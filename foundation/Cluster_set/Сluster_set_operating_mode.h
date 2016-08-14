@@ -1,0 +1,11 @@
+#ifndef CLUSTER_SET_OPERATING_MODES_H
+#define CLUSTER_SET_OPERATING_MODES_H
+
+
+enum Ñluster_set_operating_mode
+{
+	COMMON_USAGE_CLUSTER_SET_MODE,
+	FILL_UP_MODEL_CLUSTER_SET_MODE
+} 
+;
+#endif
